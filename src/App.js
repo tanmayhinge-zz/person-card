@@ -1,13 +1,10 @@
 import React, { Component } from 'react';
 import Persons from './Components/Persons';
 
-
-
-
 class App extends Component {
 
   state = {
-    name: 'Tanmay Hinge',
+    name: 'John Doe',
     age: 20
   };
 
@@ -27,7 +24,6 @@ class App extends Component {
 
 
   render(){
-
 
     let person = <Persons 
   

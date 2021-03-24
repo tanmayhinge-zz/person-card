@@ -1,7 +1,7 @@
 .Person{
     margin: 20px;
     text-align: left;
-    width: 250px;
+    width: 300px;
     padding: 40px;
     background-color: rgb(204, 255, 202);
     border: black;
@@ -10,6 +10,16 @@
     border-width: 3px;
 }
 
+.Person h1{
+    font-size: 20px;
+}
+
 .Input{
+    
+}
+
+.Input p{
+    display: inline-block;
     margin: 10px;
+    color: rgb(132, 132, 245);
 }
