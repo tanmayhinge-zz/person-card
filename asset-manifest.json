@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/person-card/static/css/main.fea3bff1.chunk.css",
+    "main.js": "/person-card/static/js/main.6221ba54.chunk.js",
+    "main.js.map": "/person-card/static/js/main.6221ba54.chunk.js.map",
+    "runtime-main.js": "/person-card/static/js/runtime-main.2984881d.js",
+    "runtime-main.js.map": "/person-card/static/js/runtime-main.2984881d.js.map",
+    "static/js/2.2616d65b.chunk.js": "/person-card/static/js/2.2616d65b.chunk.js",
+    "static/js/2.2616d65b.chunk.js.map": "/person-card/static/js/2.2616d65b.chunk.js.map",
+    "static/js/3.7e47380d.chunk.js": "/person-card/static/js/3.7e47380d.chunk.js",
+    "static/js/3.7e47380d.chunk.js.map": "/person-card/static/js/3.7e47380d.chunk.js.map",
+    "index.html": "/person-card/index.html",
+    "static/css/main.fea3bff1.chunk.css.map": "/person-card/static/css/main.fea3bff1.chunk.css.map",
+    "static/js/2.2616d65b.chunk.js.LICENSE.txt": "/person-card/static/js/2.2616d65b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2984881d.js",
+    "static/js/2.2616d65b.chunk.js",
+    "static/css/main.fea3bff1.chunk.css",
+    "static/js/main.6221ba54.chunk.js"
+  ]
+}
